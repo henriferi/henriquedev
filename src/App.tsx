@@ -148,10 +148,10 @@ function App() {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-green-200 to-green-400 bg-clip-text text-transparent">
-            Henrique Fernandes
+            Fernandes Dev
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-300 max-w-3xl mx-auto">
-            Desenvolvedor Full Stack especializado em <span className="text-green-400">aplicações web</span>, 
+            Desenvolvimento Full Stack especializado em <span className="text-green-400">aplicações web</span>, 
             <span className="text-green-400"> landing pages</span> e <span className="text-green-400">e-commerce</span>
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
