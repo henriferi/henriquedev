@@ -424,7 +424,7 @@ function App() {
             hfernades.dev
           </div>
           <p className="text-gray-400 mb-4">
-            Desenvolvedor Full Stack • Soluções Web Personalizadas
+            Desenvolvimento Full Stack • Soluções Web Personalizadas
           </p>
           <div className="flex justify-center gap-6 mb-4">
             <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="text-green-400 hover:text-green-300 transition-colors">
