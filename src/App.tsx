@@ -277,7 +277,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-6 bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent">
-              Meus Serviços
+              Nossos Serviços
             </h2>
             <p className="text-gray-300 text-lg max-w-2xl mx-auto">
               Ofereço soluções completas para transformar suas ideias em realidade digital
