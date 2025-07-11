@@ -195,18 +195,17 @@ function App() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent">
-                Sobre Mim
+                Sobre Nós
               </h2>
               <p className="text-gray-300 mb-6 text-lg leading-relaxed">
-                Sou um desenvolvedor Full Stack apaixonado por criar soluções digitais que realmente fazem a diferença 
-                no negócio dos meus clientes. Com mais de 3 anos de experiência, já desenvolvi dezenas de projetos 
-                que geraram resultados concretos.
+                Somos desenvolvedores Full Stack apaixonados por criar soluções digitais que realmente fazem a diferença 
+                no negócio dos nossos clientes. Com mais de 3 anos de experiência coletiva, já desenvolvemos dezenas de projetos 
+                que trouxeram resultados concretos e mensuráveis.
               </p>
               <p className="text-gray-300 mb-8 text-lg leading-relaxed">
-                Especialista em tecnologias modernas, meu foco é sempre 
-                entregar código limpo, performático e que resolva problemas reais.
+                Especialistas em tecnologias modernas, nosso foco é sempre 
+                entregar código limpo, performático e orientado à resolução de problemas reais.
               </p>
-              
               <div className="grid grid-cols-2 gap-6 mb-8">
                 <div className="flex items-center gap-3">
                   <Trophy className="w-6 h-6 text-green-400" />
