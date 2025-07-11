@@ -421,7 +421,7 @@ function App() {
       <footer className="border-t border-green-500/30 py-8">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <div className="text-2xl font-bold mb-4 bg-gradient-to-r from-green-400 to-green-600 bg-clip-text text-transparent">
-            Henrique.dev
+            hfernades.dev
           </div>
           <p className="text-gray-400 mb-4">
             Desenvolvedor Full Stack • Soluções Web Personalizadas
@@ -435,7 +435,7 @@ function App() {
             </a>
           </div>
           <p className="text-gray-500 text-sm">
-            © 2025 Henrique Fernandes. Todos os direitos reservados.
+            © 2025 hFernandesdev. Todos os direitos reservados.
           </p>
         </div>
       </footer>
